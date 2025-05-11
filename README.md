@@ -57,6 +57,7 @@ or node server.js
 ```
 
 ### Start frontend
+```
 cd frontend/app
 npm run dev
 ```
