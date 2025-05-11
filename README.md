@@ -38,8 +38,8 @@ cd fitlog
 cd FitLogProject
 
 
-### 2. Install dependencies
 ```
+### 2. Install dependencies
 ### Frontend
 ```
 cd frontend
@@ -49,8 +49,8 @@ npm install
 cd backend
 npm install
 ```
-### Start backend
 ```
+### Start backend
 nodemon server.js
 or node server.js
 ```
