@@ -39,8 +39,8 @@ cd FitLogProject
 
 
 ### 2. Install dependencies
-### Frontend
 ```
+### Frontend
 cd frontend
 npm install
 ```
