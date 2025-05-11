@@ -45,22 +45,21 @@ npm install
 ```
 
 ### Backend
+### 3.Start the app
+```
 cd backend
 npm install
 ```
-
-### 3.Start the app
 ### Start backend
 ```
-cd backend
 nodemon server.js
 or node server.js
-
 ```
 ### Start frontend
+
 cd frontend/app
 npm run dev
-
+```
 The app will be available at:
 👉 http://localhost:5173
 
