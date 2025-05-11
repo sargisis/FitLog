@@ -40,24 +40,24 @@ cd FitLogProject
 
 ### 2. Install dependencies
 ### Frontend
-```
 cd frontend
 npm install
+```
 
 ### Backend
-```
 cd backend
 npm install
+```
 
 ### 3.Start the app
-```
 ### Start backend
+```
 cd backend
 nodemon server.js
 or node server.js
 
-### Start frontend
 ```
+### Start frontend
 cd frontend/app
 npm run dev
 
