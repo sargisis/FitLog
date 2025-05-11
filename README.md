@@ -51,11 +51,12 @@ npm install
 ```
 ```
 ### Start backend
+```
 nodemon server.js
 or node server.js
 ```
-### Start frontend
 
+### Start frontend
 cd frontend/app
 npm run dev
 ```
