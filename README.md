@@ -18,7 +18,7 @@ FitLog is a modern web app that helps users track their meals, calculate calorie
 
 ## 🖥️ Tech Stack
 
-- **Frontend:** React, TypeScript, CSS
+- **Frontend:** React, CSS
 - **Backend:** Node.js, Express
 - **AI Integration:** Google Gemini API
 - **Database:** MongoDB
