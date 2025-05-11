@@ -46,9 +46,9 @@ cd frontend
 npm install
 ```
 ### Backend
+```
 cd backend
 npm install
-```
 ```
 ### Start backend
 ```
