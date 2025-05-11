@@ -37,24 +37,26 @@ git clone https://github.com/sargisis/fitlog.git
 cd fitlog
 cd FitLogProject
 
-``` 
-### 2. Install dependencies
 
+### 2. Install dependencies
+```bash
 ### Frontend
 cd frontend
 npm install
 
+```bash
 ### Backend
 cd backend
 npm install
 
+```bash
 ### 3.Start the app
 ### Start backend
 cd backend
 nodemon server.js
 or node server.js
 
-
+```bash
 ### Start frontend
 cd frontend/app
 npm run dev
